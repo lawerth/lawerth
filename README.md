@@ -39,7 +39,7 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawerth&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lawerth&theme=tokyonight" height="160" />
 </p>
 
 ---
