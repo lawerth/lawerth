@@ -5,39 +5,33 @@
 </p>
 
 ---
-### 👨‍💻 **About Me**
-- 🧑 Name: Umut
-- 🧬 Age: 18
-- 🗺️ Location: Turkiye
 
----
-
-### 🚀 **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,discordjs,react,go,python,html,css,php,nodejs,mysql,mongodb,vercel,discord" />
-</p>
-
----
-
-### 📫 **Contact Me**
 <div align="center">
-  <a href="https://discord.gg/mPNt8WexJA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:lawerth@proton.me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lawerth/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@lawerth" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
+  <h2>👨‍💻 About Me</h2>
+  <p style="max-width:600px;">
+    I am Umut, an 18-year-old developer from Turkiye. I enjoy building web applications and exploring backend systems. My focus is on improving my-full-stack development skills and working on real-world projects that help me grow as a software engineer.
+  </p>
+  <p style="max-width:600px;">
+    Currently, I am learning modern JavaScript ecosystems, working with Node.js and React, and experimenting with cloud platforms and databases. I also enjoy automating small tasks and building Discord bots.
+  </p>
 </div>
 
 ---
 
-### 📊 **GitHub Stats**
+<h1 align="center">
+  🚀 Tech Stack
+</h1>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,go,py,php,html,css,bash,react,discordjs,nodejs,express,flutter,mysql,mongodb,supabase,aws,gcp,vercel,heroku,cloudflare,debian,npm,vscode&perline=8" />
+</p>
+
+---
+
+<h1 align="center">
+  📊 GitHub Stats
+</h1>
+
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=lawerth&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lawerth&layout=compact&theme=tokyonight" height="165">
@@ -48,7 +42,19 @@
 </p>
 
 ---
-### 🎧 Spotify Vibes
+
+<h1 align="center">
+  📫 Contact Me
+</h1>
+
+<p align="center"><a href="https://discord.gg/mPNt8WexJA" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"></a> &nbsp; <a href="https://www.linkedin.com/in/lawerth" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a> &nbsp; <a href="https://instagram.com/umut.balkl" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"></a> &nbsp; <a href="https://open.spotify.com/user/ddibvx15owg5fivg280dmx4m5?si=aab510ff6bc147a4" target="_blank"><img src="https://skillicons.dev/icons?i=spotify" height="40" alt="Spotify"></a> &nbsp; <a href="mailto:lawerth@proton.me" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Mail"></a></p>
+
+---
+
+<h1 align="center">
+  🎧 Spotify Vibes
+</h1>
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=ddibvx15owg5fivg280dmx4m5&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ddibvx15owg5fivg280dmx4m5&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
@@ -57,6 +63,11 @@
 
 ---
 
-### 🐍 **Contribution Snake**
-<img src="https://raw.githubusercontent.com/lawerth/lawerth/output/snake.svg" alt="Snake Animation" />
+<h1 align="center">
+  🐍 Contribution Snake
+</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lawerth/lawerth/output/snake.svg" alt="Snake Animation" />
+</p>
 
