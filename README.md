@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lawerth! 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3000&pause=1000&color=0064F7&center=true&vCenter=true&width=435&lines=Build.+Break.+Learn.+Repeat.;Stay+Curious.+Keep+Building.;If+It+Works%2C+Don't+Touch+It." alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3000&pause=1000&color=0064F7&center=true&vCenter=true&width=435&lines=Build.+Break.+Learn.+Repeat.;Stay+Curious.+Keep+Building.;If+It+Works%2C+Don't+Touch+It." alt="Typing SVG" />
 </p>
 
 ---
