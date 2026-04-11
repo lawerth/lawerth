@@ -39,9 +39,12 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=lawerth&theme=tokyonight-duo&hide_border=true&cache_seconds=1800&token=${{ secrets.STREAK_STATS_TOKEN }}" alt="GitHub Stats" />
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=lawerth&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lawerth&layout=compact&theme=tokyonight" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=lawerth&theme=tokyonight" height="165">
 </p>
 
 ---
