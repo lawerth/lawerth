@@ -9,10 +9,10 @@
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   <p style="max-width:600px;">
-    I am Umut, an 18-year-old developer from Turkiye. I enjoy building web applications and exploring backend systems. My focus is on improving my-full-stack development skills and working on real-world projects that help me grow as a software engineer.
+    I am Umut, an 18-year-old developer from Turkiye. I enjoy building web applications and exploring backend systems.
   </p>
   <p style="max-width:600px;">
-    Currently, I am learning modern JavaScript ecosystems, working with Node.js and React, and experimenting with cloud platforms and databases. I also enjoy automating small tasks and building Discord bots.
+    Currently, I am learning modern JavaScript ecosystems, working with Node.js. I also enjoy automating small tasks and building Discord bots.
   </p>
 </div>
 
