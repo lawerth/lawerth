@@ -47,7 +47,7 @@
   📫 Contact Me
 </h2>
 
-<p align="center"><a href="https://discord.gg/mPNt8WexJA" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"></a> &nbsp; <a href="https://www.linkedin.com/in/lawerth" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a> &nbsp; <a href="https://instagram.com/umut.balkl" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"></a> &nbsp; <a href="https://open.spotify.com/user/ddibvx15owg5fivg280dmx4m5?si=aab510ff6bc147a4" target="_blank"><img src="https://skillicons.dev/icons?i=spotify" height="40" alt="Spotify"></a> &nbsp; <a href="mailto:lawerth@proton.me" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Mail"></a></p>
+<p align="center"><a href="https://discord.gg/bUvFfrWMs8" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"></a> &nbsp; <a href="https://www.linkedin.com/in/lawerth" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"></a> &nbsp; <a href="https://instagram.com/umut.balkl" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"></a> &nbsp; <a href="https://open.spotify.com/user/ddibvx15owg5fivg280dmx4m5?si=aab510ff6bc147a4" target="_blank"><img src="https://skillicons.dev/icons?i=spotify" height="40" alt="Spotify"></a> &nbsp; <a href="mailto:lawerth@proton.me" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Mail"></a></p>
 
 ---
 
